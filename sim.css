@@ -1,0 +1,39 @@
+
+.login{
+    background-color: rgb(25, 117, 102);
+    color: rgb(240, 248, 255);
+    border-radius: 25px;
+    width: 500px;
+    height: 1000px;
+    position: absolute;
+    margin-left:700px;
+    margin-top: 60px;
+    padding-left: 150px;  
+    padding-top: 55px;
+    font-size: 25px;
+    font-family: "Lato", sans-serif ;
+    
+}
+.campo_user{
+    color: rgb(124, 124, 124);
+    background-color: white;
+    border-color: white;
+    border-radius: 3px;
+    width: 300px;
+    height: 40px;
+    margin-top: 105px;
+    margin-left: 45px;
+    position: relative;
+
+}
+
+.senha{
+    color: rgb(133, 133, 133);
+    background-color: white;
+    border-color: white;
+    border-radius: 5px;
+    width: 150px;
+    height: 25px;
+    margin-top: 25px;
+    margin-left: 45px;
+}
