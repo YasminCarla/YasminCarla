@@ -1,16 +1,31 @@
+h1{
+    font-size: 45px;
+    font-weight: 400;
+    font-family: "Lato", sans-serif ;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0px;
+    padding-left: 85px;  
+    padding-top: 18px;
 
+}
+
+sim{
+    border-color: rgb(56, 122, 114);
+}
 .login{
-    background-color: rgb(25, 117, 102);
+    background-color: rgb(21, 75, 66);
     color: rgb(240, 248, 255);
-    border-radius: 25px;
+    border-color: rgb(56, 122, 114);
+    border-radius: 15px;
     width: 500px;
     height: 1000px;
     position: absolute;
-    margin-left:700px;
-    margin-top: 60px;
+    margin-left:863px;
+    margin-top: 42px;
     padding-left: 150px;  
     padding-top: 55px;
-    font-size: 25px;
+    font-size: 20px;
+    font-weight: 15px;
     font-family: "Lato", sans-serif ;
     
 }
@@ -31,9 +46,9 @@
     color: rgb(133, 133, 133);
     background-color: white;
     border-color: white;
-    border-radius: 5px;
-    width: 150px;
-    height: 25px;
+    border-radius: 3px;
+    width: 300px;
+    height: 40px;
     margin-top: 25px;
     margin-left: 45px;
 }
